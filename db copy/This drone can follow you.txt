@@ -1,0 +1,1 @@
+{"Keywords": [], "Class": "CNN.com - Technology", "Summary": "This drone can follow you\n", "Link": "http://rss.cnn.com/~r/rss/edition_technology/~3/p3nj7lxjlFQ/cnn-ces-airdog-drone.cnnmoney.html", "Title": "This drone can follow you", "Image": "http://i2.cdn.turner.com/cnn/dam/assets/150107113121-airdog-drone-top-tease.png", "Data": "Tue, 20 Jan 2015 14:02:07 EST"}

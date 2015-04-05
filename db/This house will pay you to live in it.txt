@@ -1,0 +1,1 @@
+{"Class": "Technology", "Title": "This house will pay you to live in it", "Summary": "This house will pay you to live in it\n", "Keywords": [], "Link": "http://rss.cnn.com/~r/rss/edition_technology/~3/VlXlC33oUVw/index.html", "Data": "Wed, 18 Mar 2015 10:40:41 EDT", "Image": "http://i2.cdn.turner.com/cnn/dam/assets/150302114653-aktivhaus-3-top-tease.jpg"}

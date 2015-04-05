@@ -1,0 +1,1 @@
+{"Summary": "The hottest apps in tech\n", "Class": "Technology", "Data": "Fri, 23 Jan 2015 10:00:59 EST", "Image": "http://i2.cdn.turner.com/cnn/dam/assets/141124162406-iphone-01-top-tease.jpg", "Title": "The hottest apps in tech", "Keywords": [], "Link": "http://rss.cnn.com/~r/rss/edition_technology/~3/6TVylHFxqeQ/index.html"}

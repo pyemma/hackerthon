@@ -1,0 +1,1 @@
+{"Summary": "A better way to GIF?\n", "Class": "Technology", "Data": "Thu, 26 Feb 2015 15:36:53 EST", "Image": "http://i2.cdn.turner.com/cnn/dam/assets/150223153057-instant-startups-gopop-image-7-top-tease.jpg", "Title": "A better way to GIF?", "Keywords": [], "Link": "http://rss.cnn.com/~r/rss/edition_technology/~3/aBlxyqOdKH0/instant-startups-gopop-orig-ms.cnn.html"}

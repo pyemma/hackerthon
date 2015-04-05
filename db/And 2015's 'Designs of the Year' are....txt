@@ -1,0 +1,1 @@
+{"Class": "Technology", "Title": "And 2015's 'Designs of the Year' are...", "Summary": "And 2015's 'Designs of the Year' are...\n", "Keywords": [], "Link": "http://rss.cnn.com/~r/rss/edition_technology/~3/giupJM_lFUM/index.html", "Data": "Mon, 02 Mar 2015 08:32:09 EST", "Image": "http://i2.cdn.turner.com/cnn/dam/assets/150223161950-designs-of-the-year---megafaces-top-tease.jpg"}

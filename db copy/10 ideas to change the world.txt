@@ -1,0 +1,1 @@
+{"Keywords": [], "Class": "CNN.com - Technology", "Summary": "10 ideas to change the world\n", "Link": "http://rss.cnn.com/~r/rss/edition_technology/~3/5NXZvfjPLFg/cnn-10-ideas", "Title": "10 ideas to change the world", "Image": "http://i2.cdn.turner.com/cnn/dam/assets/150101151821-police-body-camera-2-top-tease.jpg", "Data": "Fri, 09 Jan 2015 10:02:32 EST"}

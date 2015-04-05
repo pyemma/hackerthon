@@ -1,0 +1,1 @@
+{"Summary": "Helmet lets pilots see through plane\n", "Class": "Technology", "Data": "Fri, 03 Apr 2015 09:50:25 EDT", "Image": "http://i2.cdn.turner.com/cnn/dam/assets/150403075741-f-35-helmet-3-top-tease.png", "Title": "Helmet lets pilots see through plane", "Keywords": [], "Link": "http://rss.cnn.com/~r/rss/edition_technology/~3/JJpudsnrn_E/orig-f-35-new-helmet.cnn.html"}

@@ -1,0 +1,47 @@
+The first part is to read data from different website.
+
+First, you should do the following things: (we use python 3.2 or above to do text exaction and summarization). We change a slightly different from original one.
+
+Our back-end system requeires the following package:
+
+(1) >> cd eatiht-master
+    >> sudo python3 setup.py install
+(2) >> pip3 rake
+(3) >> cd ../
+    >> cd feedparser-5.1.3
+    >> sudo python3 setup.py install
+
+Pleas make sure that you follow the above steps so that you can run the following command:
+
+(4) >> cd ../
+	>> python3 feed.py
+
+After that, the data is created into db/ folder so that we can use the data for future use. The data is in json format for mono-db to read.
+
+Due to the time limitation, we cannot achieve all feed news. Thus, you can add website feed news manually in the feed.py.
+
+Then, you need to have your MongoDB on, doing this by 
+
+>> mongod
+
+The default port of mongod is 27017 and in our code, we use this as the default port, if you have changed the port, you need to change the code a little
+
+To import the data, first make sure you have use the our code to fetch the data and format them in the right order. Make sure that all data is in the folder 'data'. Then run insertData.js
+
+>> node insertData.js
+
+You need to install additional 'mongodb' module to run the code
+
+After the insertion of the data, run tfidfDemo.js
+
+>> node tfidfDemo.js
+
+This would update each record's keywords field. You need both 'mongodb' and 'natural' modules to run the code, these module has been contained in the folder node_modules.
+
+After the preparation of the data, you need to have the server on. Go into the folder news_app and type
+
+>> rails s -b your_IP_address -p port_number
+
+You might need to modify some code to configure the correct IP address and prot number
+
+Then launch the ios app and enjoy! 

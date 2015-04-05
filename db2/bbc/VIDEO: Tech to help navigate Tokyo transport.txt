@@ -1,0 +1,1 @@
+{"Class": "Technology", "Data": "Fri, 27 Mar 2015 14:39:27 GMT", "Summary": "VIDEO: Tech to help navigate Tokyo transport\n", "Keywords": ["shibuya train station", "lj rich reports", "beacon technology", "pilot program"], "Link": "http://www.bbc.co.uk/news/technology-32031829#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa", "Title": "VIDEO: Tech to help navigate Tokyo transport"}
