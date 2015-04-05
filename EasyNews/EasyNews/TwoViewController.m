@@ -264,7 +264,9 @@
 - (void) dataDownloadsRequriedWithImageArray:(NSMutableArray *) imageArray
                                    textArray:(NSMutableArray *) textArray
 {
-    NSURL *url = [NSURL URLWithString:@"http://10.116.3.119:3000/categories/Technology.json"];
+    NSString *urlStr = [NSString stringWithFormat:@"10.116.3.119:3000/categories/%@.json", [[NSUserDefaults standardUserDefaults] objectForKey:@"tag"]];
+    NSLog(@"String is %@\n", urlStr);
+    NSURL *url = [NSURL URLWithString:urlStr];
     
     NSURLRequest *request = [NSURLRequest requestWithURL:url];
     NSURLSessionConfiguration *configuration = [NSURLSessionConfiguration ephemeralSessionConfiguration];
